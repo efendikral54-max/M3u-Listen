@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="Trt1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trt1.png" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="Atv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/atv.png" group-title="Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="KanalD" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/kanald.png" group-title="Ulusal",Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+#EXTINF:-1 tvg-name="Star TV" tvg-id="StarTV" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/startv.png" group-title="Ulusal",Star TV
+https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
+#EXTINF:-1 tvg-name="Show TV" tvg-id="ShowTV" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/showtv.png" group-title="Ulusal",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
+#EXTINF:-1 tvg-name="Now" tvg-id="Now" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/now.png" group-title="Ulusal",Now
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tv8.png" group-title="Ulusal",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_480p.m3u8
+#EXTINF:-1 tvg-name="TV85" tvg-id="TV85" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tv85.png" group-title="Ulusal",TV85
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_480p.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-id="A2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/a2.png" group-title="Ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
+#EXTINF:-1 tvg-name="Tabiitv" tvg-id="Tabiitv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tabii.png" group-title="Ulusal",Tabiitv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="Teve2" tvg-id="Teve2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/teve2.png" group-title="Ulusal",Teve2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_480p.m3u8
+#EXTINF:-1 tvg-name="Kanal 7" tvg-id="Kanal 7" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/kanal7.png" group-title="Ulusal",Kanal 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="Showmax" tvg-id="Showmax" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/showmax.png" group-title="Ulusal",Showmax
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_480p.m3u8
+#EXTINF:-1 tvg-name="Beyaztv" tvg-id="Beyaztv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beyaztv.png" group-title="Ulusal",Beyaztv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="TV360" tvg-id="TV360" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/360tv.png" group-title="Ulusal",TV360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trtturk.png" group-title="Ulusal",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-id="TRTAvaz" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trtavaz.png" group-title="Ulusal",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Dmax" tvg-id="Dmax" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/dmax.png" group-title="Belgesel",Dmax
+http://116.202.238.88/DMAX_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRTBelgesel" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trtbelgesel.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Tarihtv" tvg-id="Tarihtv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tarihtv.png" group-title="Belgesel",Tarihtv
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:-1 tvg-name="BBC" tvg-id="BBC" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/bbc-hd.png" group-title="Belgesel",BBC
+http://65.108.239.207/bbc/index.m3u8
+#EXTINF:-1 tvg-name="Viasathistory" tvg-id="Viasathistory" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/viasat.png" group-title="Belgesel",Viasathistory
+http://65.108.239.207/viasathistory/index.m3u8
+#EXTINF:-1 tvg-name="Viasatexplore" tvg-id="Viasatexplore" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/davinci.png" group-title="Belgesel",Viasatexplore
+http://65.108.239.207/viasatexplore/index.m3u8
+#EXTINF:-1 tvg-name="History" tvg-id="History" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/history.png" group-title="Belgesel",History
+http://65.108.239.207/history/index.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/discoverychannel.png" group-title="Belgesel",Discovery
+http://65.108.239.207/discovery/index.m3u8
+#EXTINF:-1 tvg-name="lovenature" tvg-id="lovenature" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/lovenature.png" group-title="Belgesel",lovenature
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:-1 tvg-name="Dokubox" tvg-id="Dokubox" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/dokubox.png" group-title="Belgesel",Dokubox
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:-1 tvg-name="Natgeo" tvg-id="Natgeo" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/natgeo.png" group-title="Belgesel",Natgeo
+http://65.108.239.207/natgeo/index.m3u8
+#EXTINF:-1 tvg-name="Natgeowild" tvg-id="Natgeowild" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/natgeowild.png" group-title="Belgesel",Natgeowild
+http://65.108.239.207/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="Minikacocuk" tvg-id="Minikacocuk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/minikacocuk.png" group-title="Ã‡ocuk",Minikacocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-name="Minikago" tvg-id="Minikago" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/minikago.png" group-title="Ã‡ocuk",Minikago
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-name="Cartoonnetwork" tvg-id="Cartoonnetwork" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/cartoonnetwork.png" group-title="Ã‡ocuk",Cartoonnetwork
+http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-name="TRT Ã‡ocuk" tvg-id="TRTÃ‡ocuk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trtcocuk.png" group-title="Ã‡ocuk",TRT Ã‡ocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="SÃ¶zcÃ¼ tv" tvg-id="SÃ¶zcÃ¼tv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sozcutv.png" group-title="Haber",SÃ¶zcÃ¼ tv
+http://65.108.239.207/sozcutv/index.m3u8
+#EXTINF:-1 tvg-name="Halktv" tvg-id="Halktv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/halktv.png" group-title="Haber",Halktv
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="Tele1" tvg-id="Tele1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tele1.png" group-title="Haber",Tele1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-name="Flashhaber" tvg-id="Flashhaber" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/flashhaber.png" group-title="Haber",Flashhaber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 tvg-name="Ntv" tvg-id="Ntv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/ntv.png" group-title="Haber",Ntv
+https://tatatam.trt1sultanfatihss.workers.dev/http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
+#EXTINF:-1 tvg-name="Bloomberght" tvg-id="Bloomberght" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/bloomberght.png" group-title="Haber",Bloomberght
+https://tatatam.trt1sultanfatihss.workers.dev/https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
+#EXTINF:-1 tvg-name="Ekoltv" tvg-id="Ekoltv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/ekoturk.png" group-title="Haber",Ekoltv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-name="Haberglobal" tvg-id="Haberglobal" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/haberglobal.png" group-title="Haber",Haberglobal
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRTHaber" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trthaber.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Haberturk" tvg-id="Haberturk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/haberturk.png" group-title="Haber",Haberturk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-name="TV100" tvg-id="TV100" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tv100.png" group-title="Haber",TV100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-name="TV24" tvg-id="TV24" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/24tv.png" group-title="Haber",TV24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Turk" tvg-id="Moviesmartturk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/moviesmartturk.png" group-title="Sinema",Moviesmart Turk
+http://65.108.239.207/mvturk/index.m3u8
+#EXTINF:-1 tvg-name="Sinemaaile2" tvg-id="Sinemaaile2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinemaaile2.png" group-title="Sinema",Sinemaaile2
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-name="Sinemaaksiyon" tvg-id="Sinemaaksiyon" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinemaaksiyon.png" group-title="Sinema",Sinemaaksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+#EXTINF:-1 tvg-name="Sinemaaksiyon2" tvg-id="Sinemaaksiyon2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinemaaksiyon.png" group-title="Sinema",Sinemaaksiyon2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-name="Sinemakomedi" tvg-id="Sinemakomedi" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinemakomedi.png" group-title="Sinema",Sinemakomedi
+http://65.108.239.207/sinemakomedi/index.m3u8
+#EXTINF:-1 tvg-name="Sinematv" tvg-id="Sinematv" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinematv.png" group-title="Sinema",Sinematv
+http://65.108.239.207/sinema/index.m3u8
+#EXTINF:-1 tvg-name="Sinematv2" tvg-id="Sinematv2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinema2.png" group-title="Sinema",Sinematv2
+http://65.108.239.207/sinema2/index.m3u8
+#EXTINF:-1 tvg-name="Sinema1001" tvg-id="Sinema1001" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinema1001.png" group-title="Sinema",Sinema1001
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:-1 tvg-name="Sinema1002" tvg-id="Sinema1002" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sinema1002.png" group-title="Sinema",Sinema1002
+http://65.108.239.207/sinema1002/index.m3u8
+#EXTINF:-1 tvg-name="Beinmovieaction1" tvg-id="" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinmoviesaction.png" group-title="Sinema",Beinmovieaction1
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:-1 tvg-name="Beinmoviesstars" tvg-id="Beinmoviesstars" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinmoviesstars.png" group-title="Sinema",Beinmoviesstars
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:-1 tvg-name="Beinmoviesturk" tvg-id="Beinmoviesturk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinmoviesturk.png" group-title="Sinema",Beinmoviesturk
+http://65.108.239.207/bsturk/index.m3u8
+#EXTINF:-1 tvg-name="Beinmoviespremier1" tvg-id="Beinmoviespremier1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinmoviespremiere.png" group-title="Sinema",Beinmoviespremier1
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:-1 tvg-name="Beinmoviesfamily" tvg-id="Beinmoviesfamily" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinmoviesfamily.png" group-title="Sinema",Beinmoviesfamily
+http://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:-1 tvg-name="Beinmoviescomedy" tvg-id="Beinmoviescomedy" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinseriescomedy.png" group-title="Sinema",Beinmoviescomedy
+http://65.108.239.207/bscomedy/index.m3u8
+#EXTINF:-1 tvg-name="Boxoffice 1" tvg-id="Boxoffice1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinbox_office1.png" group-title="Sinema",Boxoffice 1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:-1 tvg-name="Boxoffice 2" tvg-id="Boxoffice2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinbox_office2.png" group-title="Sinema",Boxoffice 2
+http://65.108.239.207/box2/index.m3u8
+#EXTINF:-1 tvg-name="Boxoffice 3" tvg-id="Boxoffice3" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinbox_office3.png" group-title="Sinema",Boxoffice 3
+http://65.108.239.207/box3/index.m3u8
+#EXTINF:-1 tvg-name="Nr1" tvg-id="trtmuzik" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trtmuzik.png" group-title="trtmuzik",Nr1
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Nr1turk" tvg-id="Nr1turk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/nr1turk.png" group-title="MÃ¼zik",Nr1turk
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power" tvg-id="Power" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/powertv.png" group-title="MÃ¼zik",Power
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:-1 tvg-name="Powerturk" tvg-id="Powerturk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/powerturktv.png" group-title="MÃ¼zik",Powerturk
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dreamturk" tvg-id="Dreamturk" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/dreamtvturk.png" group-title="MÃ¼zik",Dreamturk
+https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="Beinsports 1" tvg-id="Beinsports1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsports1.png" group-title="Spor",Beinsports 1
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-name="Beinsports 2" tvg-id="Beinsports2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsports2.png" group-title="Spor",Beinsports 2
+https://netspor.tecostream.xyz/bs2.m3u8
+#EXTINF:-1 tvg-name="Beinsports 3" tvg-id="Beinsports3" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsports3.png" group-title="Spor",Beinsports 3
+https://netspor.tecostream.xyz/bs3.m3u8
+#EXTINF:-1 tvg-name="Beinsports 4" tvg-id="Beinsports4" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsports4.png" group-title="Spor",Beinsports 4
+https://netspor.tecostream.xyz/bs4.m3u8
+#EXTINF:-1 tvg-name="Beinsports 5" tvg-id="Beinsports5" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsports5.png" group-title="Spor",Beinsports 5
+https://netspor.tecostream.xyz/bs5.m3u8
+#EXTINF:-1 tvg-name="Beinsportshaber" tvg-id="Beinsportshaber" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsportshaber.png" group-title="Spor",Beinsportshaber
+https://netspor.tecostream.xyz/bsh.m3u8
+#EXTINF:-1 tvg-name="Beinsportsmax 1" tvg-id="Beinsportsmax1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsportsmax1.png" group-title="Spor",Beinsportsmax 1
+https://cdn.codenet.work:443/streamgo/stremgo123/4870.m3u8
+#EXTINF:-1 tvg-name="Beinsportsmax 2" tvg-id="Beinsportsmax2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/beinsportsmax2.png" group-title="Spor",Beinsportsmax 2
+https://cdn.codenet.work:443/streamgo/stremgo123/4871.m3u8
+#EXTINF:-1 tvg-name="Tivibu 1" tvg-id="Tivibu1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tivibuspor1.png" group-title="Spor",Tivibu 1
+https://cdn.codenet.work:443/streamgo/stremgo123/4882.m3u8
+#EXTINF:-1 tvg-name="Tivibu 2" tvg-id="Tivibu2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tivibuspor2.png" group-title="Spor",Tivibu 2
+https://cdn.codenet.work:443/streamgo/stremgo123/4883.m3u8
+#EXTINF:-1 tvg-name="Tivibu 3" tvg-id="Tivibu3" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tivibuspor3.png" group-title="Spor",Tivibu 3
+https://cdn.codenet.work:443/streamgo/stremgo123/4884.m3u8
+#EXTINF:-1 tvg-name="Tivibu 4" tvg-id="Tivibu4" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/tivibuspor4.png" group-title="Spor",Tivibu 4
+https://cdn.codenet.work:443/streamgo/stremgo123/4885.m3u8
+#EXTINF:-1 tvg-name="SSport" tvg-id="SSport" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/s_sport.png" group-title="Spor",SSport
+https://netspor.tecostream.xyz/ss1.m3u8
+#EXTINF:-1 tvg-name="SSport2" tvg-id="SSSport2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/s_sport2.png" group-title="Spor",SSport2
+https://netspor.tecostream.xyz/ss2.m3u8
+#EXTINF:-1 tvg-name="Smart 1" tvg-id="Smart1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sporsmart.png" group-title="Spor",Smart 1
+https://netspor.tecostream.xyz/sm1.m3u8
+#EXTINF:-1 tvg-name="Smart 2" tvg-id="Smart2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/sporsmart2.png" group-title="Spor",Smart 2
+https://netspor.tecostream.xyz/sm2.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="Eurosport1" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/eurosport1.png" group-title="Spor",Eurosport 1
+https://cdn.codenet.work:443/streamgo/stremgo123/4872.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport2" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/eurosport2.png" group-title="Spor",Eurosport 2
+https://cdn.codenet.work:443/streamgo/stremgo123/4873.m3u8
+#EXTINF:-1 tvg-name="Aspor" tvg-id="Aspor" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/aspor.png" group-title="Spor",Aspor
+https://one.caec6083d6b01cf5.click/live/saspor/playlist.m3u8
